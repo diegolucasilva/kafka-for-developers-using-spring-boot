@@ -227,6 +227,17 @@ auto.create.topics.enable=false
 </details>
 
 
+## Schema registry
+
+```
+./schema-registry-start ./etc/schema-registry/schema-registry.properties
+```
+</p>
+</details>
+https://docs.confluent.io/4.1.2/schema-registry/docs/using.html
+
+
+
 <details><summary>Windows</summary>
 <p>
 
